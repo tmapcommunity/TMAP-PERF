@@ -3,7 +3,6 @@ from tkinter import StringVar
 import divide_service as divide_service
 import multiply_service as multiply_service
 
-
 class CalculationService:
     """""Class for keeping track of, and evaluating calculations"""""
 
